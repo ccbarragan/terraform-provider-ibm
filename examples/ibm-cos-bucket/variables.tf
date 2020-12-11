@@ -3,7 +3,7 @@ variable "bucket_name" {
 }
 
 variable "resource_group_name" {
-  default = "Default"
+  default = "default"
 }
 
 variable "storage" {
